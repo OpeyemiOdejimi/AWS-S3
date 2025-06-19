@@ -103,6 +103,20 @@ a) search for "S3".
 
 After clicking on S3 in the search results, you'll be directed to the S3 page.
 a) From there, locate and click on the "Create bucket" button.
+![Create bucket](Images/create-bucket.png)
+_**Fig 1:**_ Create S3 bucket.
+
+![Upload file](Images/upload-file.png)
+_**Fig 2:**_ Upload text file into S3 bucket
+
+![File](Images/file.png)
+_**Fig 3:**_ Text file already uploaded in S3 bucket
+
+![S3 bucket versioning](Images/bucket-version.png)
+_**Fig 4:**_ Enable bucket versioning
+
+![S3 bucket lifecycle update](Images/lifecycle.png)
+_**Fig 5:**_ Update the lifecycle of the created S3 buckett
 
 
 Let's proceed with creating a new bucket. Please provide a unique name for the bucket, ensuring it's distinct from any existing bucket names.
